@@ -1,10 +1,10 @@
 # tokengen.py
-token generator for you discord mfs that like token logging
+token generator
 
-THIS TOKENS ARE NOT 100% REAL TOKENS (for you dumbass mfs) SO THEY MIGHT WORK OR MIGHT NOT WORK
+THIS TOKENS ARE NOT 100% REAL TOKENS SO THEY MIGHT WORK OR MIGHT NOT WORK
 
 pls star
 
 requirements: visual studio code, python
 
-discord: fair#5555
+discord: dripy#5555
